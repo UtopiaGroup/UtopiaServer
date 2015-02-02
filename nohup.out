@@ -1,0 +1,68 @@
+
+> utopiaServer@0.0.0 start /root/utopiaServer
+> node ./bin/www
+
+[0mGET / [36m304 [0m231.896 ms - -[0m
+[0mGET / [32m200 [0m41.016 ms - 2143[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m3.054 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m2.301 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.534 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.543 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m0.597 ms - -[0m
+[0mGET / [36m304 [0m44.104 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.026 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.695 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.369 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.592 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m0.717 ms - -[0m
+[0mGET / [36m304 [0m37.815 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.773 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.379 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.687 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.362 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m0.480 ms - -[0m
+
+> utopiaServer@0.0.0 start /root/utopiaServer
+> node ./bin/www
+
+[0mGET / [36m304 [0m236.588 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m2.848 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m1.359 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.594 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.337 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m0.406 ms - -[0m
+[0mGET / [36m304 [0m42.727 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.565 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.421 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.356 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.395 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m0.499 ms - -[0m
+[0mGET / [36m304 [0m54.118 ms - -[0m
+[0mGET / [36m304 [0m32.958 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.552 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.405 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m3.279 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.338 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m1.387 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m24.040 ms - 1917[0m
+[0mGET / [36m304 [0m21.679 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.361 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.381 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.350 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.726 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m20.015 ms - 1917[0m
+[0mGET /mongo [33m404 [0m17.669 ms - 1917[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.633 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.344 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.418 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.322 ms - -[0m
+[0mGET / [36m304 [0m22.997 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.557 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.335 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m0.333 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.324 ms - -[0m
+[0mGET / [36m304 [0m19.188 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m0.402 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.338 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m1.049 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.331 ms - -[0m
