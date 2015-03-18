@@ -66,3 +66,151 @@
 [0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m0.338 ms - -[0m
 [0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m1.049 ms - -[0m
 [0mGET /javascripts/bootstrap.js [36m304 [0m0.331 ms - -[0m
+
+> UtopiaServer@0.0.0 start /home/chenwenxiao/UtopiaServer
+> node ./bin/www
+
+Port 80 requires elevated privileges
+
+npm ERR! UtopiaServer@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the UtopiaServer@0.0.0 start script.
+npm ERR! This is most likely a problem with the UtopiaServer package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls UtopiaServer
+npm ERR! There is likely additional logging output above.
+npm ERR! System Linux 3.16.0-31-generic
+npm ERR! command "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+npm ERR! cwd /home/chenwenxiao/UtopiaServer
+npm ERR! node -v v0.10.36
+npm ERR! npm -v 1.4.28
+npm ERR! code ELIFECYCLE
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/chenwenxiao/UtopiaServer/npm-debug.log
+npm ERR! not ok code 0
+
+> UtopiaServer@0.0.0 start /home/chenwenxiao/UtopiaServer
+> node ./bin/www
+
+[0mGET / [32m200 [0m735.589 ms - 2203[0m
+[0mGET /stylesheets/bootstrap.css [32m200 [0m39.168 ms - 127343[0m
+[0mGET /stylesheets/bootstrap-responsive.css [32m200 [0m47.540 ms - 22102[0m
+[0mGET /javascripts/bootstrap.js [32m200 [0m106.770 ms - 61884[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [32m200 [0m107.454 ms - 84320[0m
+[0mGET /img/glyphicons-halflings.png [32m200 [0m77.199 ms - 12799[0m
+[0mGET /favicon.ico [33m404 [0m40.617 ms - 2037[0m
+
+> UtopiaServer@0.0.0 start /home/chenwenxiao/UtopiaServer
+> node ./bin/www
+
+Port 3000 is already in use
+
+npm ERR! UtopiaServer@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the UtopiaServer@0.0.0 start script.
+npm ERR! This is most likely a problem with the UtopiaServer package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls UtopiaServer
+npm ERR! There is likely additional logging output above.
+npm ERR! System Linux 3.16.0-31-generic
+npm ERR! command "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+npm ERR! cwd /home/chenwenxiao/UtopiaServer
+npm ERR! node -v v0.10.36
+npm ERR! npm -v 1.4.28
+npm ERR! code ELIFECYCLE
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/chenwenxiao/UtopiaServer/npm-debug.log
+npm ERR! not ok code 0
+
+> UtopiaServer@0.0.0 start /home/chenwenxiao/UtopiaServer
+> node ./bin/www
+
+Port 3000 is already in use
+
+npm ERR! UtopiaServer@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the UtopiaServer@0.0.0 start script.
+npm ERR! This is most likely a problem with the UtopiaServer package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls UtopiaServer
+npm ERR! There is likely additional logging output above.
+npm ERR! System Linux 3.16.0-31-generic
+npm ERR! command "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+npm ERR! cwd /home/chenwenxiao/UtopiaServer
+npm ERR! node -v v0.10.36
+npm ERR! npm -v 1.4.28
+npm ERR! code ELIFECYCLE
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/chenwenxiao/UtopiaServer/npm-debug.log
+npm ERR! not ok code 0
+
+> UtopiaServer@0.0.0 start /home/chenwenxiao/UtopiaServer
+> node ./bin/www
+
+Port 3000 is already in use
+
+npm ERR! UtopiaServer@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the UtopiaServer@0.0.0 start script.
+npm ERR! This is most likely a problem with the UtopiaServer package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls UtopiaServer
+npm ERR! There is likely additional logging output above.
+npm ERR! System Linux 3.16.0-31-generic
+npm ERR! command "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+npm ERR! cwd /home/chenwenxiao/UtopiaServer
+npm ERR! node -v v0.10.36
+npm ERR! npm -v 1.4.28
+npm ERR! code ELIFECYCLE
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/chenwenxiao/UtopiaServer/npm-debug.log
+npm ERR! not ok code 0
+[0mGET / [36m304 [0m30.176 ms - -[0m
+[0mGET /stylesheets/bootstrap.css [36m304 [0m1.618 ms - -[0m
+[0mGET /stylesheets/bootstrap-responsive.css [36m304 [0m1.645 ms - -[0m
+[0mGET /javascripts/jquery-2.1.3.min.js [36m304 [0m1.625 ms - -[0m
+[0mGET /javascripts/bootstrap.js [36m304 [0m0.600 ms - -[0m
+[0mGET /img/glyphicons-halflings.png [36m304 [0m0.650 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m25.193 ms - 2037[0m
+
+npm ERR! UtopiaServer@0.0.0 start: `node ./bin/www`
+npm ERR! Exit status 143
+npm ERR! 
+npm ERR! Failed at the UtopiaServer@0.0.0 start script.
+npm ERR! This is most likely a problem with the UtopiaServer package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node ./bin/www
+npm ERR! You can get their info via:
+npm ERR!     npm owner ls UtopiaServer
+npm ERR! There is likely additional logging output above.
+npm ERR! System Linux 3.16.0-31-generic
+npm ERR! command "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+npm ERR! cwd /home/chenwenxiao/UtopiaServer
+npm ERR! node -v v0.10.36
+npm ERR! npm -v 1.4.28
+npm ERR! code ELIFECYCLE
+npm ERR! 
+npm ERR! Additional logging details can be found in:
+npm ERR!     /home/chenwenxiao/UtopiaServer/npm-debug.log
+npm ERR! not ok code 0
